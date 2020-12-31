@@ -15,6 +15,7 @@
 
 - 👨🏽‍💻 I’m a Data Analyst Intern at [Intern at Larsen & Toubro Infotech Ltd. ](https://www.lntinfotech.com/);
 - 📊💻 I'm curently working at At [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) as a Data Science & Business Analytics intern;
+- 👨🏽‍💻 Incoming full time employee at [Tredence Analytics](https://www.tredence.com/) as a Analyst;
 - 💼 I’m currently pursuing my final year of Bachelor's degree in Metallurgy And Materials Engineering at [NITK](https://www.nitk.ac.in/);
 - 🤔 My interests are with  Data Science 🖥️, Data Analytics 📊, Cricket 🏏 etc..;
 - 🎬 I love watching movies and I'm a big fan of Breaking Bad <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
