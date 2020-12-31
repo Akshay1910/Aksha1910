@@ -57,4 +57,5 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Akshay%20Gupta-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gupta-944aa714a)](https://www.linkedin.com/in/akshay-gupta-944aa714a)  [![GitHub Badge](https://img.shields.io/badge/-@Akshay?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Akshay1910)](https://github.com/Akshay1910)  [![Gmail Badge](https://img.shields.io/badge/-@Akshay_Gupta-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:gakshay1210@gmail.com](mailto:gakshay1210@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Akshay%20Gupta-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gupta-944aa714a)](https://www.linkedin.com/in/akshay-gupta-944aa714a)  [![GitHub Badge](https://img.shields.io/badge/-Akshay%20Gupta-blue?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Akshay1910)](https://github.com/Akshay1910)  
+[![Gmail Badge](https://img.shields.io/badge/-@Akshay_-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:gakshay1210@gmail.com](mailto:gakshay1210@gmail.com)
