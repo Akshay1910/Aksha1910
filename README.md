@@ -1,4 +1,4 @@
-## Hi there, I'm [Akshay](https://kishan0725.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [Akshay](https://www.linkedin.com/in/akshay-gupta-944aa714a)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
