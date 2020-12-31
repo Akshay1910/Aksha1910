@@ -31,6 +31,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
